@@ -11,3 +11,10 @@ a sample chatrooms application using Firebase.
 
 talk to me in #android on hackthenorth.slack.com if you have any questions!
 
+## fun tips
+- you can create your own Firebase and replace the links in my app with yours!
+- you can look at the contents of the Firebase by going to https://android-101.firebaseio.com/.json
+
+## exercises
+- add a name as well as a room name (i.e. you see "shane: hi" not just "hi"
+- build a list of the available chatrooms
